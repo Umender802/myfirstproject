@@ -1,3 +1,2 @@
-# myfirstproject
-make a car open world driving
+# myfirstprojopen world car driving
 it is my first project where I will learn how to code
